@@ -25,12 +25,12 @@
 }
 
 .p1 {
-  font-size: 6vw;
+  font-size: 5vw;
   color: red;
 }
 
 .p2 {
-  font-size: 6vw;
+  font-size: 5vw;
   background-color: black;
   color: red;
 }
@@ -41,7 +41,7 @@
 	margin-top: 10px;
   background-color: red;
   color: black;
-	text-align-last: center;
+  text-align: center;
   font-style: italic;
-  font-size: 2vw;
+  font-size: 3vw;
 }
